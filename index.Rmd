@@ -1,5 +1,17 @@
 ---
 title: "Jenna Eagleson"
+image: "images/myface.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin")`'
+    url: "https://www.linkedin.com/in/jenna-eagleson/"
+  - label: '`r fontawesome::fa("twitter")`'
+    url: "https://twitter.com/JennaEagleson"
+  - label: '`r fontawesome::fa("medium")`'
+    url: "https://jeagleson.medium.com/"
+  - label: '`r fontawesome::fa("envelope")`'
+    url: "mailto:eagleson.jenna@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
