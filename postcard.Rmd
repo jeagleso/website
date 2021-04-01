@@ -2,14 +2,14 @@
 title: "Jenna Eagleson"
 image: "images/myface.jpg"
 links:
-  - label: Linkedin
-    url: "https://linkedin.com/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("linkedin")`'
+    url: "https://www.linkedin.com/in/jenna-eagleson/"
+  - label: '`r fontawesome::fa("twitter")`'
     url: "https://twitter.com/JennaEagleson"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: '`r fontawesome::fa("medium")`'
+    url: "https://jeagleson.medium.com/"
+  - label: '`r fontawesome::fa("envelope")`'
+    url: "mailto:eagleson.jenna@gmail.com"
 output:
   postcards::jolla
 ---
