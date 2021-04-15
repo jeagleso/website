@@ -8,6 +8,20 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Current publications
+## Recent Articles
 
-- [Example article](articles/article2.html)
+- [How Popular is Your Name? Mini Data Viz Challenge in R](https://towardsdatascience.com/how-popular-is-your-name-mini-data-viz-challenge-in-r-1dc31f6a22dc)
+
+- [Learn Power BI: 10 Free Resources](https://towardsdatascience.com/learn-power-bi-free-resources-88238927045d)
+
+- [New in 2021: Learn Power BI with Weekly Challenges](https://jeagleson.medium.com/new-in-2021-learn-power-bi-with-weekly-challenges-8742db48a52)
+
+- [Reactions to Using Tableau for the First Time](https://medium.com/nightingale/reactions-to-using-tableau-for-the-first-time-9e24510a7b6a)
+
+- [Power BI: Understanding M](https://towardsdatascience.com/power-bi-understanding-m-5a3eb9e6c2da)
+
+- [3 Simple Steps to Communicating Data Insights](https://towardsdatascience.com/3-simple-steps-to-communicating-data-insights-6eeac0f790ba)
+
+- [Three Dynamic Texts to Include in Every Dashboard](https://medium.com/nightingale/three-dynamic-texts-to-include-in-every-dashboard-5ff5777da76f)
+
+- [Power BI: M vs. DAX and Measures vs. Calculated Columns](https://towardsdatascience.com/power-bi-m-vs-dax-vs-measures-4c77ae270790)
