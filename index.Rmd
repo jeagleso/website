@@ -25,4 +25,4 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
-Welcome to my website.
+I am an I/O Psychologist working in People Analytics. Nothing makes my day like a beautifully made data viz or an understated wit. You can normally fine me in Washington DC or Seattle... or somewhere inbetween. 
