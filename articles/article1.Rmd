@@ -1,0 +1,30 @@
+---
+title: "My first article"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Nora Jones 
+    url: https://example.com/norajones
+    affiliation: Spacely Sprockets
+    affiliation_url: https://example.com/spacelysprokets
+  - name: Jenna Eagleson
+    affiliation: JAM LLC
+citation_url: https://rstudio.github.io/distill
+date: "`r Sys.Date()`"
+output: distill::distill_article
+bibliography: article1.bib
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+All analyses were done using R 4.0.4 [@R-base]
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

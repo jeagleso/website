@@ -1,6 +1,6 @@
 ---
 title: "Jenna Eagleson"
-image: "images/myface.jpg"
+image: "images/myface.png"
 links:
   - label: '`r fontawesome::fa("linkedin")`'
     url: "https://www.linkedin.com/in/jenna-eagleson/"
