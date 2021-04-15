@@ -9,5 +9,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Publications"
+      href: about.html
+      menu:
+        - text: "First article"
+          href: articles/article1.html
+        - text: "Second article"
+          href: articles/article2.html
 output: distill::distill_article
 theme: theme.css 

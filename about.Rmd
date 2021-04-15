@@ -8,3 +8,6 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Current publications
+
+- [Example article](articles/article2.html)
