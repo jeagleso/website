@@ -6,14 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nRecent Articles\nHow Popular is Your Name? Mini Data Viz Challenge in R\nLearn Power BI: 10 Free Resources\nNew in 2021: Learn Power BI with Weekly Challenges\nReactions to Using Tableau for the First Time\nPower BI: Understanding M\n3 Simple Steps to Communicating Data Insights\nThree Dynamic Texts to Include in Every Dashboard\nPower BI: M vs. DAX and Measures vs. Calculated Columns\n\n\n\n",
-      "last_modified": "2021-04-14T18:47:30-07:00"
+      "last_modified": "2021-04-14T18:53:28-07:00"
+    },
+    {
+      "path": "articles.html",
+      "title": "Recent Articles",
+      "author": [],
+      "contents": "\nHow Popular is Your Name? Mini Data Viz Challenge in R\nLearn Power BI: 10 Free Resources\nNew in 2021: Learn Power BI with Weekly Challenges\nReactions to Using Tableau for the First Time\nPower BI: Understanding M\n3 Simple Steps to Communicating Data Insights\nThree Dynamic Texts to Include in Every Dashboard\nPower BI: M vs. DAX and Measures vs. Calculated Columns\n\n\n\n",
+      "last_modified": "2021-04-14T18:55:41-07:00"
     },
     {
       "path": "index.html",
       "title": "Jenna Eagleson",
       "author": [],
-      "contents": "\n\n          \n          \n          Jenna Eagleson\n          \n          \n          Home\n          About\n          \n          \n          Publications\n           \n          ▾\n          \n          \n          First article\n          Second article\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Jenna Eagleson\n          \n          \n            \n              Welcome to my website.\n            \n            \n              Welcome to my website.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-04-14T18:38:53-07:00"
+      "contents": "\n\n          \n          \n          Jenna Eagleson\n          \n          \n          Home\n          About\n          Articles\n          ☰\n          \n          \n      \n        \n          \n            Jenna Eagleson\n          \n          \n            \n              Welcome to my website.\n            \n            \n              Welcome to my website.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                                \n                  \n                    \n                      \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                                \n                  \n                    \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-04-14T18:53:29-07:00"
     }
   ],
   "collections": []
