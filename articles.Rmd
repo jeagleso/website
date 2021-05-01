@@ -1,11 +1,23 @@
 ---
-title: "Recent Articles"
+title: "Recent Work"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Speaking
+
+### Society of Industrial Organizational Psychology 2021: Panel
+[Student Consulting Challenges: Put Your Practice Where Your Science Is](https://player.vimeo.com/video/538185327)
+![](https://player.vimeo.com/video/538185327)
+
+### PTCMW/UMBC Career Panel 2020: Panel 
+The Personnel Testing Council of Metropolitan Washington (PTCMW) and the University of Maryland Baltimore County (UMBC) I/O Psychology Graduate Program for a career panel and networking event. Panelists will share their defining experiences as I/O Psychologists and offer career advice to students and early career professionals.
+
+# Writing
+
+- [Should R Be Taught in Higher Ed?](https://towardsdatascience.com/should-r-be-taught-in-higher-ed-bd34118a443b?sk=dddb52ddab3ccddc76064a633e960d2b)
 
 - [How Popular is Your Name? Mini Data Viz Challenge in R](https://towardsdatascience.com/how-popular-is-your-name-mini-data-viz-challenge-in-r-1dc31f6a22dc)
 
