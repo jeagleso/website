@@ -87,6 +87,7 @@ ul > li::marker {
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   font-weight: 300;
+  color: #3D5A80;
 }
 
 .distill-site-header .logo img{
